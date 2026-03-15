@@ -1,6 +1,6 @@
 # 🍽️ API de Gerenciamento de Restaurante
 
-Esta API foi desenvolvida utilizando Node.js e SQLite, com o objetivo de gerenciar produtos e mesas de um restaurante de forma simples e eficiente.
+Esta API foi desenvolvida utilizando Node.js, TypeScript e SQLite, com o objetivo de gerenciar produtos e mesas de um restaurante de forma simples e eficiente.
 
 ## ⚙️ Funcionalidades
 
